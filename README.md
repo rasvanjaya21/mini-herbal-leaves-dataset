@@ -1,10 +1,10 @@
-<p align="center"><img src="https://rasvanjaya21.web.app/files/images/dataset-logo-github.svg" width="400"></p>
+<p align="center"><a href="#"><img src="https://rasvanjaya21.web.app/files/images/dataset-logo-github.svg" width="400"></a></p>
 
 <p align="center">
-<img src="https://rasvanjaya21.web.app/files/images/dataset-matkul-github.svg" alt="Artificial Inteligence">
-<img src="https://rasvanjaya21.web.app/files/images/dataset-label1-github.svg" alt="Daun Nangka">
-<img src="https://rasvanjaya21.web.app/files/images/dataset-label2-github.svg" alt="Daun Pepaya">
-<img src="https://rasvanjaya21.web.app/files/images/dataset-license-MIT-github.svg" alt="License">
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence"><img src="https://rasvanjaya21.web.app/files/images/dataset-matkul-github.svg" alt="Artificial Inteligence"></a>
+<a href="https://github.com/rasvanjaya21/Dataset-Daun-Nangka-dan-Pepaya_366_354/tree/master/Dataset"><img src="https://rasvanjaya21.web.app/files/images/dataset-label1-github.svg" alt="Daun Nangka"></a>
+<a href="https://github.com/rasvanjaya21/Dataset-Daun-Nangka-dan-Pepaya_366_354/tree/master/Dataset"><img src="https://rasvanjaya21.web.app/files/images/dataset-label2-github.svg" alt="Daun Pepaya"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://rasvanjaya21.web.app/files/images/dataset-license-MIT-github.svg" alt="License"></a>
 </p>
 
 ## Description
