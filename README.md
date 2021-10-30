@@ -1,15 +1,15 @@
-<p align="center"><a ><img src="https://rasvanjaya21.web.app/files/images/dataset-logo-github.svg" width="400"></a></p>
+<p align="center"><img src="https://rasvanjaya21.web.app/files/images/dataset-logo-github.svg" width="400"></p>
 
 <p align="center">
-<a href="#"><img src="https://rasvanjaya21.web.app/files/images/dataset-matkul-github.svg" alt="Artificial Inteligence"></a>
-<a href="#"><img src="https://rasvanjaya21.web.app/files/images/dataset-label1-github.svg" alt="Daun Nangka"></a>
-<a href="#"><img src="https://rasvanjaya21.web.app/files/images/dataset-label2-github.svg" alt="Daun Pepaya"></a>
-<a href="#"><img src="https://rasvanjaya21.web.app/files/images/dataset-license-MIT-github.svg" alt="License"></a>
+<img src="https://rasvanjaya21.web.app/files/images/dataset-matkul-github.svg" alt="Artificial Inteligence">
+<img src="https://rasvanjaya21.web.app/files/images/dataset-label1-github.svg" alt="Daun Nangka">
+<img src="https://rasvanjaya21.web.app/files/images/dataset-label2-github.svg" alt="Daun Pepaya">
+<img src="https://rasvanjaya21.web.app/files/images/dataset-license-MIT-github.svg" alt="License">
 </p>
 
 ## Description
 
-Sebuah project tugas mata kuliah Artificial Inteligence/Kecerdasan Buatan (Collect Dataset Herbal Leaves) dengan Dosen Pengampu Bapak Galih Wasis Wicaksono dan Asisten Dosen Mbak Ulfah Nur Oktaviana. Memilih 2 macam daun herbal untuk dijadikan dataset beserta overview dataset nya. Apa itu dataset? Dataset merupakan algoritma machine learning dimana Machine Learning sendiri merupakan cabang aplikasi dari Artificial Intelligence yang berfokus pada pengembangan sebuah sistem yang mampu belajar sendiri tanpa harus berulang kali diprogram oleh manusia. Namun sebelum mengeluarkan sebuah hasil data dari perilaku objek, Machine Learning membutuhkan data awal sebagai bahan belajar dimana proses belajar Machine Learning itu sendiri menggunakan data yang disebut <a>Dataset</a>. Singkatnya, data ini berlaku sebagai input. Tidak hanya itu, dalam metode Machine Learning dibutuhkan algoritma yang didasari sebuah data untuk menghasilkan suatu pola atau kesimpulan yang diinginkan.
+Sebuah project tugas mata kuliah Artificial Inteligence/Kecerdasan Buatan (Collect Dataset Herbal Leaves) dengan Dosen Pengampu Bapak Galih Wasis Wicaksono dan Asisten Dosen Mbak Ulfah Nur Oktaviana. Memilih 2 macam daun herbal untuk dijadikan dataset beserta overview dataset nya. Apa itu dataset? Dataset merupakan algoritma machine learning dimana Machine Learning sendiri merupakan cabang aplikasi dari Artificial Intelligence yang berfokus pada pengembangan sebuah sistem yang mampu belajar sendiri tanpa harus berulang kali diprogram oleh manusia. Namun sebelum mengeluarkan sebuah hasil data dari perilaku objek, Machine Learning membutuhkan data awal sebagai bahan belajar dimana proses belajar Machine Learning itu sendiri menggunakan data yang disebut <a href="#">Dataset</a>. Singkatnya, data ini berlaku sebagai input. Tidak hanya itu, dalam metode Machine Learning dibutuhkan algoritma yang didasari sebuah data untuk menghasilkan suatu pola atau kesimpulan yang diinginkan.
 
 Repository ini berisi dua buah sample Dataset Herbal Leaves yaitu : Dataset Daun Nangka dan Dataset Daun Pepaya.
 
